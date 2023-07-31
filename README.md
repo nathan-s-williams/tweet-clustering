@@ -9,4 +9,4 @@ The Jaccard index, also known as the Jaccard similarity coefficient, is a statis
 -Wikipedia, source: https://en.wikipedia.org/wiki/Jaccard_index
 
 ## Data Source
-Data is comes from a personal repository of tweets taken from the internet. It is hosted on my personal google drive.
+Data comes from a personal repository of tweets taken from the internet. It is hosted on my personal google drive.
